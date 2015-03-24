@@ -1,17 +1,20 @@
+# Installation
+
+![Download latest version of VFR Serbia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/download.png "Download latest version of VFR Serbia")
+
+http://1drv.ms/18Utnw2
+
+1. Remove previous installation of VFR Serbia
+2. Copy VFR Serbia folder in the [FSX Installation Folder]\Addon Sceneries\
+3. Add Scenery using Scenery Library
+4. Enjoy
+
 # VFR-Serbia
 VFR Serbia is a free, open source set of sceneries for Flight Simulator X and Prepar3D. It represents my effort to promote long-term cooperation and free contribution to FSX add-ons and to create missing airfields.
 
 There are many different add-on airports. Level of complexity and details depends on time, effort and knowledge put into the project. 
 
 Do you already have some Serbian airports to share? Join the project and help us grow this community-driven effort to provide free and authentic add-on airports to FSX and Prepar3D. You can contact me directly if you need any help with github and integration of your existing work.
-
-# Installation
-Download lates version from http://1drv.ms/1HlQawc
-
-1. Remove previous installation of VFR Serbia
-2. Copy VFR Serbia folder in the [FSX Installation Folder]\Addon Sceneries\
-3. Add Scenery using Scenery Library
-4. Enjoy
 
 # Airports
 
