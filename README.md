@@ -1,8 +1,6 @@
 # Installation
 
-![Download latest version of VFR Serbia](https://github.com/adam-p/markdown-here/raw/master/src/common/images/download.png "Download latest version of VFR Serbia")
-
-http://1drv.ms/18Utnw2
+Download latest version of VFR Serbia: http://1drv.ms/18Utnw2
 
 1. Remove previous installation of VFR Serbia
 2. Copy VFR Serbia folder in the [FSX Installation Folder]\Addon Sceneries\
