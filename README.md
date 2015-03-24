@@ -19,6 +19,9 @@ Download lates version from http://1drv.ms/1HlQawc
 > Pančevo Airport (*Аеродром Панчево* or *Aerodrom Pančevo*) (ICAO: LYPA) is an airport near the city of Pančevo, Serbia near Belgrade. The airport is mostly used for general aviation operations. It has a single grass runway 1,000 metres long and 60 metres wide.
 > The airport is also used by Utva Aviation Industry, a manufacturer of light sporting and training aircraft also located in Pančevo, for testing its aircraft. - *from wikipedia*
 
+## LYSP - Rudine Airfield
+> Smederevska Palanka Airport (Serbian: Аеродром Рудине, or Aerodrom Rudine) (ICAO: LYSP) is an airport that serves the town of Smederevska Palanka. It can also be referred to as Rudine Airport. The airport has a grass runway that is 700 metres long and 30 metres wide.
+
 # Landmarks
 TBD
  
